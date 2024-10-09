@@ -1,0 +1,321 @@
+.rectangle1 {
+    display: inline-block;
+    height: 80px;
+    width: 100%;
+    border: solid 1px darkred;
+    color: red;
+    background-color: darkred;
+   
+}
+
+.Ellipse1 {
+width: 41px;
+    height: 52px;
+    margin: 0 861px 0 0;
+    padding: 1px 10px 4px;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 10%;
+    line-height: 1.8;
+}
+
+.login {
+  width: 43px ;
+      height: 23px;
+      margin: 12px   26px 11px 0;
+      font-family: Poppins;
+      font-size: 24px;
+      font-weight: 500;
+      color: white;
+      text-align: center;
+  }
+  
+
+  .create{
+    border: solid white;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+      }
+
+  .breakfast{
+    color: darkblue;
+    font-size: 50;
+    font-style: normal;
+    line-height: 2.5;
+    margin-top: -25;
+  }
+
+  .item{
+    width: 282px;
+    height: 672px;
+    margin: -26px 72px 8px 2px;
+    padding: 17px 25px 9px 36px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+        background-color: white;
+    }
+
+  .filters{
+    color: darkblue;
+    font-size: 20;
+    line-height: 2;
+}
+
+.select{
+  line-height: 2;
+  opacity: 50%;
+  color: darkred;
+}
+
+.cousine{
+  line-height: 3;
+    font-size: 20;
+    color: darkblue;
+}
+
+.item2{
+  display: inline-block;
+  width: 794px;
+    height: 291px;
+    margin: -521px 241px 43px 410px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: white;
+}
+
+.paddingleft{
+  padding: 10 10 10 100;
+    margin-top: 2;
+}
+
+.item3 {
+  display: inline-block;
+  width: 794px;
+    height: 291px;
+    margin: -200px 241px 43px 410px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: white;
+}
+
+.cost{
+  line-height: 4;
+  color: darkblue;
+}
+
+.sort{
+  line-height: 4;
+  color: darkblue;
+}
+
+.cousinecheckbox{
+  opacity: 50%;
+  color: darkred;
+}
+
+.radiocost{
+  opacity: 50%;
+  color: darkred;
+}
+
+.sortradio{
+  opacity: 50%;
+  color: darkred;
+}
+
+.item-left {
+  display: inline-block;
+  width: 50%;
+  margin: 0 41px;
+  margin-top: 20;
+  object-fit: contain;
+}
+
+.shree{
+    display: inline-block;
+    width: 298px;
+    height: 43px;
+    margin: -107px 158.39999999999998px 5px 201px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+
+}
+
+.katraj{
+  position: absolute;
+  top: 250;
+  left: 800;
+  font-size: 25;
+  font-style: normal;
+  font-weight: bold;
+  color: saddlebrown;
+}
+
+.veg{
+  position: absolute;
+  color: black;
+  font-weight: bold;
+  font-size: 18;
+  top: 330;
+}
+
+.main{
+  position: absolute;
+    top: 350;
+  }
+
+  .cousines{
+    position: absolute;
+    font-size: 18;
+    font-weight: bold;
+    color: black;
+    top: 400;
+    
+  }
+
+  .best{
+    border: solid 1px;
+        color: blue;
+        width: 70;
+        background: gold;
+        position: absolute;
+        top: 370;
+  }
+
+  .biryani{
+    position: absolute;
+    top: 400;
+    left: 750;
+    
+  }
+
+  .costfor{
+    position: absolute;
+    top: 425;
+    
+    font-size: 18;
+    font-weight: bold;
+    color: black;
+    
+  }
+
+  .rupee{
+    position: absolute;
+    top: 425;
+    left: 750;
+}
+
+.momo{
+  display: inline-block;
+  width: 298px;
+  height: 43px;
+  margin: -107px 158.39999999999998px 5px 201px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+  .college{
+    position: absolute;
+    left: 800;
+    font-size: 25;
+    font-style: normal;
+    font-weight: bold;
+    color: saddlebrown;
+    top: 565;
+  }
+  
+
+  .veg1{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 18;
+    top: 650;
+    
+  }
+  
+  .main1{
+    position: absolute;
+    top: 670;
+      
+    }
+  
+    .cousines1{
+      position: absolute;
+      font-size: 18;
+      font-weight: bold;
+      color: black;
+      top: 720;
+      
+      
+    }
+  
+    .best1{
+      border: solid 1px;
+          color: blue;
+          width: 70;
+          background: gold;
+          position: absolute;
+          top: 690;
+         
+    }
+  
+    .biryani1{
+      position: absolute;
+      
+      left: 750;
+      top: 720;
+      
+    }
+  
+    .costfor1{
+      position: absolute;
+      
+      
+      font-size: 18;
+      font-weight: bold;
+      color: black;
+      top: 745;
+      
+    }
+  
+    .rupee1{
+      position: absolute;
+      
+      left: 750;
+      top: 745;
+      
+  
+    }
+
+    .item4{
+      border: solid 1px;
+          color: blue;
+          width: 70;
+          background: gold;
+          position: absolute;
+          top: 370;
+    }
+
+    .button{
+      
+      margin: 180px;
+      margin-left: 270px;
+    }
